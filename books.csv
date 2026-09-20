@@ -1,0 +1,16 @@
+Book ID,Book Name,Author,Genre,Category,Quantity
+B001,The Alchemist,Paulo Coelho,Fiction,Novel,4
+B002,A Brief History of Time,Stephen Hawking,Science,Non-Fiction,3
+B003,Introduction to Algorithms,Thomas Cormen,Computer Science,Textbook,2
+B004,Wings of Fire,A.P.J. Abdul Kalam,Biography,Non-Fiction,4
+B005,Harry Potter,J.K. Rowling,Fantasy,Novel,1
+B006,Clean Code,Robert C. Martin,Computer Science,Textbook,3
+B007,Atomic Habits,James Clear,self-help,Non-fiction,4
+B008,Kingdom of Ashes,Liam Night,Fantasy,Novel,2
+B009,The Metamorphosis,Franz Kafka,Fiction,Novel,0
+B010,Pride and Prejudice,Jane Austen,Romance,Novel,4
+B011,Whispers of the Forgotten,Mira Blake,Mystery,Novel,5
+B012,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Novel,3
+B013,The Hunger Games,Suzanne Collins,Dystopian,Fiction,3
+B014,It ends with us,Colleen Hoover,Romance,Novel,2
+B015,Operating System Concepts,Abraham Silberschatz,Operating System,Textbook,8

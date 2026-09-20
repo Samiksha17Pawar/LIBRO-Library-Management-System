@@ -1,0 +1,10 @@
+Student ID,Student Name,Book ID,Book Name,Date,Status
+S001,Rahul Sharma,B005,Harry Potter,2026-09-01,Returned
+S002,Priya Singh,B003,Introduction to Algorithms,2026-09-05,Issued
+S010,Samiksha Pawar,B011,Whispers of the Forgotten,2026-09-19,Returned
+S003,Ramesh Jha,B013,The Hunger Games,2026-09-19,Issued
+S005,Deeya Mathur,B004,Wings of Fire,2026-09-19,Issued
+S006,Farida Khan,B004,Wings of Fire,2026-09-19,Returned
+S006,Farida Khan,B009,The Metamorphosis,2026-09-19,Issued
+S007,Tanvi Sharma,B007,Atomic Habits,2026-09-19,Issued
+S007,Shawn Thomas,B014,It ends with us,2026-09-20,Returned
