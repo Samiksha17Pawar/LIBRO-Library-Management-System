@@ -34,6 +34,8 @@ The system allows a librarian to manage book records and library transactions th
 
 ## 🧠 Python Concepts Demonstrated
 
+This project demonstrates:
+
 - Variables and Data Types
 - Lists and Dictionaries
 - Conditional Statements
@@ -60,7 +62,7 @@ LIBRO-Library-Management-System/
 
 ### Requirements
 
-Python 3.x
+Install Python 3.x on your system.
 
 ### Steps
 
